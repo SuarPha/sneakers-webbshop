@@ -1,0 +1,14 @@
+.cart-container {
+  margin-left: auto;
+  cursor: pointer;
+}
+img {
+  width: 30px;
+}
+.cart-count {
+  margin-left: -10px;
+  background-color: #111;
+  color: whitesmoke;
+  padding-right: 4px;
+  border-radius: 10px;
+}
